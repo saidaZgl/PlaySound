@@ -1,0 +1,21 @@
+body {
+    background: #282a36;
+}
+
+.keys {
+    display: flex;
+    justify-content: space-around;
+    min-height: 100vh;
+    align-items: center;
+
+}
+
+.key {
+    background: #e74c3c;
+    color: #bdc3c7;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    border-radius: 0.3rem;
+    box-shadow: 8px 4px 0px 0px #bdc3c7;
+}
